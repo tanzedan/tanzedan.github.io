@@ -270,6 +270,16 @@ footer p {
     top:52px;
   }
 }
+.devproj{
+margin-left: 0;
+margin-right: 0;
+background-color: #fff;
+border-width: 1px;
+border-color: #ddd;
+border-radius: 4px 4px 0 0;
+box-shadow: none;
+  
+}
 
 @media print, screen and (max-width: 720px) {
   body {
